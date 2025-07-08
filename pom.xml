@@ -48,7 +48,7 @@
         <maven.jar.version>3.4.2</maven.jar.version>
         <maven.resources.version>3.3.1</maven.resources.version>
         <maven.source.version>3.3.1</maven.source.version>
-        <maven.gpg.version>3.2.7</maven.gpg.version>
+        <maven.gpg.version>3.2.8</maven.gpg.version>
         <maven.central.publishing.version>0.8.0</maven.central.publishing.version>
     </properties>
 

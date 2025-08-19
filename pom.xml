@@ -43,7 +43,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <maven.javadoc.version>3.11.2</maven.javadoc.version>
+        <maven.javadoc.version>3.11.3</maven.javadoc.version>
         <maven.release.version>3.1.1</maven.release.version>
         <maven.jar.version>3.4.2</maven.jar.version>
         <maven.resources.version>3.3.1</maven.resources.version>
